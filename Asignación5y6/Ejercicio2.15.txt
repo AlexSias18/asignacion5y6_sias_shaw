@@ -1,0 +1,8 @@
+a) x=7+3*6/2-1; Multiplicación/ División,Suma, Resta. 
+	Valor de x = 15
+
+b) x=2 % 2 + 2 * 2 - 2 / 2; Multiplicación/División,Suma, Resta.
+	 Valor de x = 3
+
+c) x=(3 * 9 *(3 +(9 * 3/(3)))); Paréntesis, Multiplicación, Suma.
+	Valor de x = 324

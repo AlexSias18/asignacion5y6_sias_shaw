@@ -1,0 +1,8 @@
+y = ax3 + 7
+
+a) y=a*x*x*x+7; Sí
+b) y=a*x*x*(x+7); No
+c) y=(a*x)*x*(x+7); No
+d) y=(a*x)*x*x+7; Sí
+e) y=a*(x*x*x)+7; Sí
+f) y=a*x*(x*x+7); No
